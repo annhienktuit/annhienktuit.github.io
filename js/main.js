@@ -40,7 +40,7 @@
 
 	/*--/ Star Counter /--*/
 	$('.counter').counterUp({
-		delay: 15,
+		delay: 10,
 		time: 2000
 	});
 
